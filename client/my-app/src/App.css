@@ -1,0 +1,133 @@
+
+  .img1{
+    height: 60px;
+    width: 60px;
+    margin: 5px;
+    padding: 5px;
+  }
+
+
+  .forms{
+    width: 800px;
+    padding: 5px;
+    margin: 5px;
+    padding-bottom: 5px;
+   
+    
+
+  
+  
+
+  }
+
+  .radioButton{
+    align-self: center;
+    margin: 5px;
+    padding: 5px;
+
+}
+  .patientButtons{
+        align-self: center;
+  
+   
+}
+
+
+
+  /*  , width: 600px; */
+  
+  .textfield{
+    text-align: center;
+    background-color: aliceblue;
+   
+
+  
+  }
+  
+.textfield2{
+  text-align: center;
+    background-color: aliceblue;
+    
+}
+
+  
+  .smallButton{
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  
+
+  .hasPrescription{
+    color: red !important;
+    
+  }
+  
+  .hasAllergy{
+    color:blueviolet !important;
+  }
+
+  .main{
+    margin-bottom: 60px;
+    display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+  }
+  .footer{
+
+      margin-top: auto;
+
+  }
+
+  
+ .gridHomePage{
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  color:"#3f51b5";
+  padding-left: 20px;
+   margin-left: 20px;
+   
+
+
+
+ }
+ .HomePage{
+   padding-top: 40px;
+   
+
+
+ }
+ 
+ .hpGrid2{
+  padding-left: 20px;
+  
+
+ }
+
+ .refreshButton{
+  padding: 10px;
+
+
+
+ }
+
+ .padding{
+  padding-top: 10px;
+
+ }
+ 
+ .patientTable{
+   padding-top: 20px;
+ }
+
+ .paddingButton{
+   padding-top: 20px;
+ }
+
+ .SplitButton{
+  padding-top: 20px;
+  color: "#3f51b5";
+  background-color:"#3f51b5";
+
+ }
