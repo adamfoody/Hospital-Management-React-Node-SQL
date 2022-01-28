@@ -1,4 +1,4 @@
-# LTM-Hospital-Node-React
+Hospital-Manager (Node.js/React.js)
 
 Treatment management system to create new patients, treatments, prescriptions and allergies. Dashboard view and reporting for completed, and high risk treatments. 
 
