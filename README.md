@@ -1,15 +1,18 @@
 # LTM-Hospital-Node-React
 
-Created using React.js for the front-end and Express / Sqlite3 for the back-end. Project includes, Auth0 authorization, CORS, Material UI Components, Axios, React-Router. 
-
 Treatment management system to create new patients, treatments, prescriptions and allergies. Dashboard view and reporting for completed, and high risk treatments. 
 
-Client and Server are the important apps. 
+Stack Used:
 
-Open the first terminal and change directory (cd) too server. Then run the command, node server. This will execute our server files, api calls and database. 
+React/Axios/MUI/Auth0
+Node/Express/Sqlite3
 
-Open a seperate terminal and change directory to client/my-app/src, and run the command npm start. 
+Start App
 
-This will execute the web-server on http://localhost:3000/. 
+New Terminal => cd server => node server 
+New Terminal => cd client => cd my-app => cd src => npm start
 
-Youtube Video Walkthrough = 
+
+URL address - web-server http://localhost:3000/. 
+
+Youtube Video Walkthrough = "TBC"
