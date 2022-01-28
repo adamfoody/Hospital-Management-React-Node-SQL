@@ -17,4 +17,4 @@ URL address - web-server http://localhost:3000/.
 
 Youtube Video Walkthrough = "TBC"
 
-<img width="1391" alt="testpic" src="https://user-images.githubusercontent.com/78685641/151618653-67050518-e50b-4862-ba7b-3971921ee812.png">
+![Screenshot 2022-01-26 at 19 46 17](https://user-images.githubusercontent.com/78685641/151618840-771d8618-3b5c-4eb0-abdb-5f9eb96bcfa9.png)
